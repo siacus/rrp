@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-10-01T20:44:44.014113Z"
+   url="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp/pkg/rrp/man"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp"
+   revision="4"/>
+<entry
+   committed-rev="2"
+   name="mulXPtr.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="90514f37e7b2a1873d2eb13e8dc9977a"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="addDist.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="39746185f3690352f1076bb4c2485fee"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="STvsPSID.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="93905989f6b68bd0fd39fb69f63deaaf"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="setDist.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="3a7aa6a42dbbf0b6260cea8a07610f22"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="XPtrToDist.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="2553e14a378829627869f805e03c91ab"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="ST.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="1626cd6d727628a28a18eb2df1f51440"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LLvsCPS.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="45d50281c01f86734d45fe2d47e20502"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="DWvsCPS.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="90f0713d92a1fac13e53af0641ab4951"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.predict.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="2deb78498774fd7fa88699c217019159"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rank.dist.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="0dc5d5ad5843693a220af36ba885da79"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.package.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="2b8ccfd3912b3e380a0e8dab2f2c7dfc"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LLvsPSID.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="8b54cc8614d2fad57790f34d842b32d2"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="applyXPtr.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="b9fc5fa8ba46a8ec551619eac84bea93"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="DWvsPSID.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="a59536c370f82a7101c48b9830f36d7d"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.dist.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="9dd4899b469352b09cc203d10306ea1b"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="STvsCPS.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="bac7adb072141dcc672b2e5035656c61"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.impute.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="be7ee52ffac154c1c4408b08138541b3"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="addXPtr.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="d54589fc7522b0e738954fa1e9b34cc7"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="newXPtr.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="0c4fc3971cb909af094e4a6a8e38b58e"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="NSW.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="23739f086b4bed46c65859a996bbe3ce"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LL.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="7baef42fe5ced153258857b7386af3f6"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.class.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="ae5b6211084a409623090b7fefe7f07d"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="setXPtr.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="ec6661e25463045a41abda4fe5b1a88f"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+<entry
+   committed-rev="2"
+   name="DW.Rd"
+   text-time="2014-08-25T11:13:15.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="386643fed710f5091cdf6b84f2768a30"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:15.000000Z"/>
+</wc-entries>

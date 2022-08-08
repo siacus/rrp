@@ -1,0 +1,23 @@
+useDynLib(rrp)
+
+export(newXPtr)
+export(setXPtr)
+export(addXPtr)
+export(mulXPtr)
+export(applyXPtr)
+export(XPtrToDist)
+export(rrp.class)
+export(rrp.dist)
+export(rank.dist)
+export(rrp.impute)
+export(rrp.predict)
+export(addDist)
+export(setDist)
+
+import(rpart)
+import(MASS)
+
+importFrom("graphics", "rect")
+importFrom("stats", "as.dist", "model.extract", "runif","weighted.mean")
+
+

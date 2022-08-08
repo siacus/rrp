@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-10-01T20:44:44.014113Z"
+   url="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp/pkg/rrp/data"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp"
+   revision="4"/>
+<entry
+   committed-rev="2"
+   name="DW.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="2eee551a59de2353542273d7552c2f71"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:10.000000Z"/>
+<entry
+   committed-rev="2"
+   name="STvsPSID.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="10f03d57d961b760f528b1161e0556bd"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:10.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LLvsPSID.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="1acad859a1375267a86414f24fe99a1f"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:11.000000Z"/>
+<entry
+   committed-rev="2"
+   name="datalist"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="1e2fd7108e3278955ad4ab7a5963bd9a"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:11.000000Z"/>
+<entry
+   committed-rev="2"
+   name="DWvsPSID.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="9c4e688db96fd143801da09bc38cf5d0"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:11.000000Z"/>
+<entry
+   committed-rev="2"
+   name="STvsCPS.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="fcbd9b964d557c8b04280b53f9ee711d"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:12.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LLvsCPS.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="b7f5e93e9a6319cc7f3a689427a956a8"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:12.000000Z"/>
+<entry
+   committed-rev="2"
+   name="ST.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="4e735b05f346b31741ebaf51b005f0f6"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:12.000000Z"/>
+<entry
+   committed-rev="2"
+   name="LL.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="f85197a0a322833c702727da17e79bed"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:12.000000Z"/>
+<entry
+   committed-rev="2"
+   name="NSW.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="317ad958ffc48030e40a2e1ca9c752c0"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:14.000000Z"/>
+<entry
+   committed-rev="2"
+   name="DWvsCPS.rda"
+   text-time="2014-08-25T11:13:14.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="f12264291dc47536997d54be9148549b"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:14.000000Z"/>
+</wc-entries>

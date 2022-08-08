@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-10-01T20:44:44.014113Z"
+   url="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp/pkg/rrp/src"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp"
+   revision="4"/>
+<entry
+   committed-rev="2"
+   name="miscDist.c"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="5f64675c92785f3c9f8999eb209cf943"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+</wc-entries>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2012-10-19T15:29:02.365856Z"
+   url="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp/pkg/rrp/R"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@svn.r-forge.r-project.org/svnroot/rrp"
+   revision="4"/>
+<entry
+   committed-rev="2"
+   name="setDist.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="9927f8813c1e0fec88701870b2476862"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="applyXPtr.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="f0ccd0ee87e93eb52b0e9facd262c54b"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="XPtrToDist.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="b94b6cd31f2a4d7e84d8306ea2c0d5f1"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="4"
+   name="rrp.dist.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-19T15:29:02.365856Z"
+   checksum="452508eeab4a66b8889d42f517dcd2ee"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.impute.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="d8ee3bcfd5aae1577c6fc038ed51c709"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="addXPtr.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="d4de4a93ed1df0221e5d961af93ac26f"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="newXPtr.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="3b33b0814505bb6f69a831c67e791c4a"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.class.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="33b23bd9feed29856baeb5543f149c85"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="setXPtr.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="a66811701da1c44358d9c788a0f2f762"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mulXPtr.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="ba0003e9de46cfa5842746a7a86c9f9d"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="addDist.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="038d67bd8cafd3429771a4087e02d9a5"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rrp.predict.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="6c812f1129b5cd3f9a0c098672e017ca"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="rank.dist.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="fb86d91e6afb450a8a83f0e87cff9a5a"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+<entry
+   committed-rev="2"
+   name="zzz.R"
+   text-time="2014-08-25T11:13:09.000000Z"
+   committed-date="2012-10-01T20:44:44.014113Z"
+   checksum="76a14a1c3af5608be702ae13347a50ee"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T11:13:09.000000Z"/>
+</wc-entries>

@@ -1,0 +1,11 @@
+Package: rrp
+Type: Package
+Title: Random Recursive Partitioning
+Version: 2.94
+Date: 2012-10-19
+Depends: R (>= 2.10), rpart, MASS
+Author: S.M. Iacus
+Maintainer: Stefano M. Iacus <sacus@iq.harvard.edu>
+Description: Random Recursive Partitiong and Rank-based proximities for data matching, missing data imputation and nonparametric classification and prediction
+License: GPL (>= 2)
+
